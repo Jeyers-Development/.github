@@ -7,5 +7,5 @@ That's pretty much it!
 
 - [Official Website -> ](href)jd.pnc3.net
 - [Itch.io -> ](href)jeyers-development.itch.io
-- [Youtube Channel -> ](href)https://www.youtube.com/@TeamJEM_
+- [Youtube Channel -> ](href)www.youtube.com/@TeamJEM_
 - [GitLab -> ](href)gitlab.com/jeyersdev
