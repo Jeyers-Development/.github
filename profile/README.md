@@ -6,6 +6,6 @@ That's pretty much it!
 ### External Links
 
 - [Official Website -> ](href)https://jd.pnc3.net
-- [Itch.io -> ](href)jeyers-development.itch.io
-- [Youtube Channel -> ](href)youtube.com/@TeamJEM_
-- [GitLab -> ](href)gitlab.com/jeyersdev
+- [Itch.io -> ](href)https://jeyers-development.itch.io
+- [Youtube Channel -> ](href)https://youtube.com/@TeamJEM_
+- [GitLab -> ](href)https://gitlab.com/jeyersdev
