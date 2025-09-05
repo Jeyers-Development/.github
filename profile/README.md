@@ -5,7 +5,7 @@ That's pretty much it!
 
 ### External Links
 
-- [Official Website -> ](href)https://jd.pnc3.net
-- [Itch.io -> ](href)https://jeyers-development.itch.io
-- [Youtube Channel ->](https://youtube.com/@TeamJEM_)
-- [GitLab -> ](href)https://gitlab.com/jeyersdev
+- [Official Website](https://jd.pnc3.net)
+- [Itch.io](https://jeyers-development.itch.io)
+- [Youtube Channel](https://youtube.com/@TeamJEM_)
+- [GitLab](https://gitlab.com/jeyersdev)
